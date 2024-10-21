@@ -1,7 +1,7 @@
 <h1 align="center">Oi!👋, eu sou Wendel Mata</h1>
 <h3 align="center">Interessado em ingressar no mundo dos Dados</h3>
 
-- 🔭 Atualmente estou mergulhando no mundo de Análise e Ciência de Dados [Primeiro relatório em PowerBI](https://app.powerbi.com/view?r=eyJrIjoiYTFmMDYxMmYtZGY2YS00OWQ1LWEzNmMtYjBjMDA4MWI0N2NkIiwidCI6ImUwMzUyN2Y4LTE4N2MtNDg1OS04NzEzLTA4MDE5ZDEzNDZlZSJ9)
+- 🔭 Atualmente estou mergulhando no mundo de Análise e Ciência de Dados 
 
 - 🌱 Atualmente estou aprendendo **Python, SQL e Power BI**
 
