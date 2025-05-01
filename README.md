@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou mergulhando no mundo de Análise e Ciência de Dados 
 
-- 🌱 Atualmente estou aprendendo **Python, SQL e Power BI**
+- 🌱 Atualmente estou estudando **AWS Cloud, SQL e Power BI**
 
 - 💬 Me pergunte sobre **Phthon, Power BI e SQL**
 
