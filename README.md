@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/WendelMata/WendelMata/blob/main/banner.png" alt="Banner - Wendel Mata" width="100%">
+</p>
+
 <!-- CABEÇALHO ANIMADO -->
 <h1 align="center">👋 Olá, eu sou o Wendel Mata</h1>
 <h3 align="center">🎯 Estudante de Análise e Desenvolvimento de Sistemas | Foco em Engenharia de Dados</h3>
