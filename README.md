@@ -16,7 +16,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="60" height="60"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="80" height="80"/>
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/databricks.svg" alt="Databricks" width="60" height="60" style="filter: invert(60%) sepia(90%) saturate(500%) hue-rotate(350deg);"/>
-
+    <img src="https://img.icons8.com/color/96/power-bi.png" alt="Power BI" width="60" height="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="60" height="60"/>
   </p>
 
 </div>
@@ -107,4 +109,3 @@ Hoje, sigo evoluindo com projetos próprios e explorando **arquiteturas em nuvem
 <p align="center">
   ⭐ <i>“Dados são o novo petróleo, mas só têm valor quando refinados.”</i>
 </p>
-
