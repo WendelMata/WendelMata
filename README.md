@@ -1,29 +1,33 @@
+<!-- ====== BANNER ====== -->
 <p align="center">
   <img src="https://github.com/WendelMata/WendelMata/blob/main/banner.png" alt="Banner - Wendel Mata" width="100%">
 </p>
 
 <br>
 
-<p align="center">
-  <strong>🧠 Principais Tecnologias e Ferramentas</strong>
-</p>
+<!-- ====== STACK CARD ====== -->
+<div align="center" style="background-color:#0d1117; padding:20px; border-radius:12px; box-shadow:0 0 10px rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.1);">
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="80" height="80"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/databricks/databricks-original.svg" alt="Databricks" width="60" height="60"/>
-  <img src="https://img.icons8.com/color/96/power-bi.png" alt="Power BI" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="60" height="60"/>
-</p>
+  <h3>🧠 Principais Tecnologias e Ferramentas</h3>
+
+  <p align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="60" height="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="80" height="80"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/databricks/databricks-original.svg" alt="Databricks" width="60" height="60"/>
+    <img src="https://img.icons8.com/color/96/power-bi.png" alt="Power BI" width="60" height="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="60" height="60"/>
+  </p>
+
+</div>
 
 <br>
 <hr style="height:1px;border:none;background-color:#2e2e2e;margin:20px 0;">
 <br>
 
-<!-- CABEÇALHO ANIMADO -->
+<!-- ====== APRESENTAÇÃO ====== -->
 <h1 align="center">👋 Olá, eu sou o Wendel Mata</h1>
 <h3 align="center">🎯 Estudante de Análise e Desenvolvimento de Sistemas | Foco em Engenharia de Dados</h3>
 <p align="center">Transformando dados em informações que geram valor 💡</p>
@@ -37,7 +41,7 @@ Hoje, sigo evoluindo com projetos próprios e explorando **arquiteturas em nuvem
 
 ---
 
-### 🧠 Áreas de interesse
+### 🧠 Áreas de Interesse
 - Engenharia e Arquitetura de Dados  
 - Análise e Visualização de Dados  
 - Pipelines ETL/ELT  
@@ -105,3 +109,4 @@ Hoje, sigo evoluindo com projetos próprios e explorando **arquiteturas em nuvem
 <p align="center">
   ⭐ <i>“Dados são o novo petróleo, mas só têm valor quando refinados.”</i>
 </p>
+
