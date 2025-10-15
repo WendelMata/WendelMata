@@ -30,34 +30,45 @@ Hoje, sigo evoluindo com projetos próprios e explorando **arquiteturas em nuvem
 
 ---
 
-### 🧩 Projetos em destaque
-
-📊 **[Análise de Desemprego e Varejo](https://github.com/WendelMata/analise-desemprego-varejo)**  
-> Projeto que cruza dados do IBGE para entender a relação entre o desemprego e o desempenho do comércio varejista entre 2023 e 2024.  
-> Inclui etapas de limpeza, transformação e análise de dados, com insights práticos sobre economia e consumo.  
-> *Stack:* Python (Pandas, Matplotlib), MySQL, Power BI.
-
-🧱 **[Minha Jornada na Carreira de Dados](https://github.com/WendelMata/carreira-em-dados)**  
-> Um projeto pessoal documentando o aprendizado contínuo em Engenharia de Dados, explorando conceitos de ETL, modelagem e cloud computing.  
-> *Stack:* Python, SQL, AWS S3, Databricks, Power BI.
-
----
-
-### ⚙️ Tecnologias e Ferramentas
-
+## 🧩 Projetos em Destaque
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white"/>
+  <a href="https://github.com/WendelMata/analise-desemprego-varejo">
+    <img src="https://img.shields.io/badge/📊%20Análise%20de%20Desemprego%20e%20Varejo-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="Análise de Desemprego e Varejo"/>
+  </a>
+  <br>
+  Projeto que cruza dados do IBGE para entender a relação entre o desemprego e o desempenho do comércio varejista entre 2023 e 2024.  
+  Inclui limpeza, transformação e análise de dados com insights práticos sobre economia e consumo.  
+  *Stack:* **Python (Pandas, Matplotlib)**, **MySQL**, **Power BI**
 </p>
 
 ---
 
-### 📈 Estatísticas do GitHub
+<p align="center">
+  <a href="https://github.com/WendelMata/carreira-em-dados">
+    <img src="https://img.shields.io/badge/🧠%20Minha%20Jornada%20na%20Carreira%20de%20Dados-FF6F00?style=for-the-badge&logo=github&logoColor=white" alt="Minha Jornada na Carreira de Dados"/>
+  </a>
+  <br>
+  Documentação da minha evolução como estudante e futuro engenheiro de dados, explorando conceitos de ETL, modelagem e cloud computing.  
+  *Stack:* **Python**, **SQL**, **AWS S3**, **Databricks**, **Power BI**
+</p>
+
+---
+
+## ⚙️ Tecnologias e Ferramentas
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+---
+
+## 📊 Estatísticas GitHub
 
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=WendelMata&show_icons=true&theme=tokyonight&count_private=true"/>
@@ -66,13 +77,15 @@ Hoje, sigo evoluindo com projetos próprios e explorando **arquiteturas em nuvem
 
 ---
 
-### 🌐 Conecte-se comigo
+## 🌐 Conecte-se Comigo
 <p align="center">
   <a href="mailto:wendelrfm@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/wendel-mata-b31633206/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/wendel-mata-b31633206/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/WendelMata"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
-⭐ *"Dados são o novo petróleo, mas só têm valor quando refinados."*
+<p align="center">
+  ⭐ <i>“Dados são o novo petróleo, mas só têm valor quando refinados.”</i>
+</p>
