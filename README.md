@@ -1,33 +1,69 @@
-<h1 align="center">Oi!👋, eu sou Wendel Mata</h1>
-<h3 align="center">Interessado em ingressar no mundo dos Dados</h3>
+<!-- CABEÇALHO ANIMADO -->
+<h1 align="center">👋 Olá, eu sou o Wendel Mata</h1>
+<h3 align="center">🎯 Estudante de Análise e Desenvolvimento de Sistemas | Foco em Engenharia de Dados</h3>
+<p align="center">Transformando dados em informações que geram valor 💡</p>
 
-- 🔭 Atualmente estou mergulhando no mundo de Análise e Ciência de Dados 
+---
 
-- 🌱 Atualmente estou estudando **AWS Cloud, SQL e Power BI**
+### 🚀 Sobre mim
+Sou graduando em **Análise e Desenvolvimento de Sistemas**, com foco em **Engenharia de Dados e Análise de Dados**.  
+Minha trajetória começou na prática — identificando falhas de controle e criando soluções baseadas em **SQL, Python e Power BI** para melhorar processos.  
+Hoje, sigo evoluindo com projetos próprios e explorando **arquiteturas em nuvem (AWS, Databricks)** e **pipelines de dados**.
 
-- 💬 Me pergunte sobre **Phthon, Power BI e SQL**
+---
 
-- 📫 Você me encontra através do e-mail **wendelrfm@gmail.com**
+### 🧠 Áreas de interesse
+- Engenharia e Arquitetura de Dados  
+- Análise e Visualização de Dados  
+- Pipelines ETL/ELT  
+- Big Data com PySpark e Databricks  
+- Integração de APIs públicas (IBGE, BCB, etc.)
 
-- 📄 Sobre minhas experiências profissionais [https://www.linkedin.com/in/wendel-mata-b31633206/](https://www.linkedin.com/in/wendel-mata-b31633206/)
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/wendel-mata-b31633206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/wendel-mata-b31633206/" height="30" width="40" /></a>
+### 🧩 Projetos em destaque
+
+📊 **[Análise de Desemprego e Varejo](https://github.com/WendelMata/analise-desemprego-varejo)**  
+> Projeto que cruza dados do IBGE para entender a relação entre o desemprego e o desempenho do comércio varejista entre 2023 e 2024.  
+> Inclui etapas de limpeza, transformação e análise de dados, com insights práticos sobre economia e consumo.  
+> *Stack:* Python (Pandas, Matplotlib), MySQL, Power BI.
+
+🧱 **[Minha Jornada na Carreira de Dados](https://github.com/WendelMata/carreira-em-dados)**  
+> Um projeto pessoal documentando o aprendizado contínuo em Engenharia de Dados, explorando conceitos de ETL, modelagem e cloud computing.  
+> *Stack:* Python, SQL, AWS S3, Databricks, Power BI.
+
+---
+
+### ⚙️ Tecnologias e Ferramentas
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
+### 📈 Estatísticas do GitHub
 
-<!---
-- 👋 Hi, I’m @WendelMata
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=WendelMata&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WendelMata&layout=compact&theme=tokyonight"/>
+</p>
 
+---
 
-WendelMata/WendelMata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🌐 Conecte-se comigo
+<p align="center">
+  <a href="mailto:wendelrfm@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/wendel-mata-b31633206/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/WendelMata"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+⭐ *"Dados são o novo petróleo, mas só têm valor quando refinados."*
