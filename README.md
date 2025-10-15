@@ -23,13 +23,6 @@
 <hr style="height:1px;border:none;background-color:#2e2e2e;margin:20px 0;">
 <br>
 
-
-<br>
-
-<hr style="height:1px;border:none;background-color:#2e2e2e;margin:20px 0;">
-
-<br>
-
 <!-- CABEÇALHO ANIMADO -->
 <h1 align="center">👋 Olá, eu sou o Wendel Mata</h1>
 <h3 align="center">🎯 Estudante de Análise e Desenvolvimento de Sistemas | Foco em Engenharia de Dados</h3>
