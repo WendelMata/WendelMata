@@ -1,6 +1,29 @@
 <p align="center">
   <img src="https://github.com/WendelMata/WendelMata/blob/main/banner.png" alt="Banner - Wendel Mata" width="100%">
 </p>
+
+<br>
+
+<p align="center">
+  <strong>🧠 Principais Tecnologias e Ferramentas</strong>
+</p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="80" height="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/databricks/databricks-original.svg" alt="Databricks" width="60" height="60"/>
+  <img src="https://img.icons8.com/color/96/power-bi.png" alt="Power BI" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="60" height="60"/>
+</p>
+
+<br>
+<hr style="height:1px;border:none;background-color:#2e2e2e;margin:20px 0;">
+<br>
+
+
 <br>
 
 <hr style="height:1px;border:none;background-color:#2e2e2e;margin:20px 0;">
