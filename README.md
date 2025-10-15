@@ -1,6 +1,11 @@
 <p align="center">
   <img src="https://github.com/WendelMata/WendelMata/blob/main/banner.png" alt="Banner - Wendel Mata" width="100%">
 </p>
+<br>
+
+<hr style="height:1px;border:none;background-color:#2e2e2e;margin:20px 0;">
+
+<br>
 
 <!-- CABEÇALHO ANIMADO -->
 <h1 align="center">👋 Olá, eu sou o Wendel Mata</h1>
